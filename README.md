@@ -1,17 +1,5 @@
 
-<html lang="zh-Hant">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>履歷表</title>
-<style>
- body { font-family: Arial, sans-serif; background:#f7f7f7; padding:40px; }
- .resume { max-width:800px; margin:0 auto; background:white; padding:40px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); }
- .photo { text-align:center; margin-bottom:30px; }
- .photo img { width:200px; border-radius:12px; }
- h1 { text-align:center; margin-bottom:10px; }
- h2 { border-left:4px solid #555; padding-left:8px; margin-top:30px; }
- .section { margin-bottom:20px; }
+
 </style>
 </head>
 <body>
