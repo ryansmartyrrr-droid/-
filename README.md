@@ -1,6 +1,3 @@
-
-
-</style>
 </head>
 <body>
 <div class="resume">
